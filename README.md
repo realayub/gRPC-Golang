@@ -20,3 +20,6 @@ The maturity of specific technology can be a big hurdle to its adoption. That’
 ### Conclusion: gRPC as an Alternative
 
 gRPC is not the evolution of REST, nor is it a better way to build APIs. In a nutshell, gRPC is a way to use RPC’s lightweight structure along with HTTP with a few handy tweaks. It’s just another alternative for you to consider when you start designing a new API. As not many companies actually have the resources to transition to gRPC as Netflix did, you will probably consider it for a new microservices project, such as digital transformation—and benefit greatly.
+
+![Screenshot (53)](https://github.com/user-attachments/assets/1f9ab210-9715-4d3a-b344-2a1bc0b6d7a2)
+
